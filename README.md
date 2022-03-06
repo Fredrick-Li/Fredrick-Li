@@ -6,7 +6,7 @@ After I received my Bachelor's degree in mathematics at UCLA, it took me a coupl
 
 Skills: Java / Python/ Spring Boot / REACT / HTML /
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on https://github.com/Fredrick-Li/Video-Stabalization 
 - 📫 How to reach me: fredrick.li@nyu.edu 
 
 
