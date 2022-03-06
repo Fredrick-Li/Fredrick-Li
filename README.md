@@ -1,8 +1,8 @@
 ![Currently an NYU student pursuing a Master's degree in Computer Engineering](https://github.com/Fredrick-Li/Fredrick-Li/blob/main/Fredrick_Banner.png)
 
-# Hi there 👋, my name is Fredrick Li
+# Hey all, my name is Fredrick Li
 
-I'm currently an NYU student pursuing a Master's degree in Computer Engineering. After I received my Bachelor's degree in mathematics at UCLA, it took me a couple of months to wonder how am I gonna put my theoretical knowledge to practical use without letting go of my passion. And now here I am, realizing that developing various cool applications and algorithms with software engineering skills can fertilize both my curiosity and imagination. Always keep learning and I'm very looking forward to my future career in the tech industry!
+I'm currently an NYU student pursuing a Master's degree in Computer Engineering. After I received my BS degree in Mathematics at UCLA, it took me a couple of months to wonder how am I gonna put my theoretical knowledge to practical use without letting go of my passion. And now here I am, realizing that developing various cool applications and algorithms with software engineering skills can fertilize both my curiosity and imagination. Always keep learning and I'm very looking forward to my future career in the tech industry!
 
 ## 🧰 Languages and Tools:
 <p align="center">
@@ -23,9 +23,8 @@ I'm currently an NYU student pursuing a Master's degree in Computer Engineering.
 - 🔭 I’m currently working on https://github.com/Fredrick-Li/Video-Stabalization 
 - 📫 How to reach me: fredrick.li@nyu.edu 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fredrick-Li&layout=compact)](https://github.com/Fredrick-Li)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fredrick-Li&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fredrick-Li&show_icons=true&theme=tokyonight)
 
 ## Social Media
 
