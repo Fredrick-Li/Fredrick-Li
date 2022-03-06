@@ -10,9 +10,6 @@ Skills: Java / Python/ Spring Boot / REACT / HTML /
 - 📫 How to reach me: fredrick.li@nyu.edu 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Fredrick Li)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/fredrick-li/)  
-
-
-
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fredrick-Li&show_icons=true&theme=radical)
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Fredrick-Li)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/fredrick-li/)  
