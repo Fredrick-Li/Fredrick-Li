@@ -1,9 +1,8 @@
 ![Currently an NYU student pursuing a Master's degree in Computer Engineering](https://github.com/Fredrick-Li/Fredrick-Li/blob/main/Fredrick_Banner.png)
 
-### Hi there 👋, my name is Fredrick Li, 
+# Hi there 👋, my name is Fredrick Li
 
-currently an NYU student pursuing a Master's degree in Computer Engineering
-After I received my Bachelor's degree in mathematics at UCLA, it took me a couple of months to wonder how am I gonna put my theoretical knowledge to practical use without letting go of my passion. And now here I am, realizing that developing various cool applications and algorithms with software engineering skills can fertilize both my curiosity and imagination. Always keep learning and I'm very looking forward to my future career in the tech industry!
+I'm currently an NYU student pursuing a Master's degree in Computer Engineering. After I received my Bachelor's degree in mathematics at UCLA, it took me a couple of months to wonder how am I gonna put my theoretical knowledge to practical use without letting go of my passion. And now here I am, realizing that developing various cool applications and algorithms with software engineering skills can fertilize both my curiosity and imagination. Always keep learning and I'm very looking forward to my future career in the tech industry!
 
 ## 🧰 Languages and Tools:
 <p align="center">
@@ -12,14 +11,22 @@ After I received my Bachelor's degree in mathematics at UCLA, it took me a coupl
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" alt="Spring Boot" height="40" style="vertical-align:top; margin:4px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" height="40" style="vertical-align:top; margin:4px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="40" style="vertical-align:top; margin:4px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="PHP" height="40" style="vertical-align:top; margin:4px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="HTML" height="40" style="vertical-align:top; margin:4px">
 </p>
 
-Java / Python/ Spring Boot / REACT / HTML /
-
+  
+  
+  
+  
+  
 - 🔭 I’m currently working on https://github.com/Fredrick-Li/Video-Stabalization 
 - 📫 How to reach me: fredrick.li@nyu.edu 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fredrick-Li&layout=compact)](https://github.com/Fredrick-Li)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fredrick-Li&show_icons=true&theme=radical)
+
+## Social Media
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Fredrick-Li)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/fredrick-li/)  
