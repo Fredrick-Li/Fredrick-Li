@@ -1,4 +1,4 @@
-![Currently an NYU student pursuing a Master's degree in Computer Engineering](https://github.com/Fredrick-Li/Fredrick-Li/blob/main/Fredrick_Banner.png)
+![](https://github.com/Fredrick-Li/Fredrick-Li/blob/main/Fredrick_Banner.png)
 
 # Hey all, my name is Fredrick Li
 
