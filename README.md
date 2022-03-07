@@ -2,7 +2,9 @@
 
 # Hey all, my name is Fredrick Li
 
-I'm currently an NYU student pursuing a Master's degree in Computer Engineering. After I received my BS degree in Mathematics at UCLA, it took me a couple of months to wonder how am I gonna put my theoretical knowledge to practical use without letting go of my passion. And now here I am, realizing that developing various cool applications and algorithms with software engineering skills can fertilize both my curiosity and imagination. Always keep learning and I'm very looking forward to my future career in the tech industry!
+I'm currently an NYU student pursuing a Master's degree in Computer Engineering. After I received my BS degree in Mathematics at UCLA, it took me a couple of months to wonder how am I gonna put my theoretical knowledge to practical use without letting go of my passion. And now here I am, realizing that developing various cool applications and algorithms with software engineering skills can fertilize both my curiosity and imagination. 
+
+Always keep learning and I'm very looking forward to my future career in the tech industry!
 
 <br />
 
